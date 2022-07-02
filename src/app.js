@@ -2,8 +2,7 @@ const body = document.querySelector("body"),
     sideBar = document.querySelector(".sidebar"),
     toggle = document.querySelector(".arrow"),
     searchBtn = document.querySelector(".search-icon"),
-    modeBtn = document.querySelector(".toggle-btn"),
-    modeText = document.querySelector(".toggle-text");
+    modeBtn = document.querySelector(".toggle-btn")
 
     toggle.addEventListener("click", () =>{
         sideBar.classList.toggle("close");

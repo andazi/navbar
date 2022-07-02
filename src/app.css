@@ -169,7 +169,10 @@ header {
     padding-left: 6px;
     border: none;
     background-color: var(--primary-color-light);
+    color: var(--text-color);
 }
+
+
 
 /* ======= nav-link ========  */
 
